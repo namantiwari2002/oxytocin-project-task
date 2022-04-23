@@ -9,7 +9,7 @@ This project is a part of the assesment task for software internship at Oxytocin
 Install my-project with npm. Change the database link in app.js
 
 ```bash
- git clone https://github.com/<your user name>/nodejs.org.git
+ git clone https://github.com/namantiwari2002/oxytocin-project-task.git
  npm install
  node app.js
 ```
